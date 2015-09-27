@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BPG WEB 002 Caps';
+    src: url('../fonts/bpg-web-002-caps-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-web-002-caps-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-web-002-caps-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-web-002-caps-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-web-002-caps-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-web-002-caps-webfont.svg#bpg_web_002_capsregular') format('svg'); /* Legacy iOS */
+}

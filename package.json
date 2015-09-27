@@ -1,0 +1,23 @@
+{
+  "name": "bpg-web-002-caps",
+  "version": "1.0.0",
+  "description": "BPG WEB 002 Caps Web-Font Package",
+  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-web-002-caps"],
+  "main": "css/bpg-web-002-caps.css",
+  "homepage": "https://github.com/web-fonts/bpg-web-002-caps",
+  "author": "Lado Lomidze <lado.lomidze@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-fonts/bpg-web-002-caps.git"
+  },
+  "licenses": [
+    {
+      "type": "CC-BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+   }
+  ]
+}
